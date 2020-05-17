@@ -1,0 +1,69 @@
+
+Interface name: Wi-Fi
+
+    Driver                    : Intel(R) Wireless-AC 9560 160MHz
+    Vendor                    : Intel Corporation
+    Provider                  : Intel
+    Date                      : 6/10/2019
+    Version                   : 21.50.1.1
+    INF file                  : oem65.inf
+    Type                      : Native Wi-Fi Driver
+    Radio types supported     : 802.11b 802.11g 802.11n 802.11a 802.11ac
+    FIPS 140-2 mode supported : Yes
+    802.11w Management Frame Protection supported : Yes
+    Hosted network supported  : No
+    Authentication and cipher supported in infrastructure mode:
+                                Open            None
+                                Open            WEP-40bit
+                                Open            WEP-104bit
+                                Open            WEP
+                                WPA-Enterprise  TKIP
+                                WPA-Enterprise  CCMP
+                                WPA-Personal    TKIP
+                                WPA-Personal    CCMP
+                                WPA2-Enterprise TKIP
+                                WPA2-Enterprise CCMP
+                                WPA2-Personal   TKIP
+                                WPA2-Personal   CCMP
+                                Open            Vendor defined
+                                WPA3-Personal   CCMP
+                                Unknown         CCMP
+                                Vendor defined  Vendor defined
+    IHV service present       : Yes
+    IHV adapter OUI           : [00 80 86], type: [00]
+    IHV extensibility DLL path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+    IHV UI extensibility ClSID: {1bf6cb2d-2ae0-4879-a7aa-a75834fbd0e3}
+    IHV diagnostics CLSID     : {00000000-0000-0000-0000-000000000000}
+    Wireless Display Supported: Yes (Graphics Driver: Yes, Wi-Fi Driver: Yes)
+
+
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 12:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2a02:587:4957:3f00:ade9:15e0:97f2:b1aa
+   Temporary IPv6 Address. . . . . . : 2a02:587:4957:3f00:a07e:a2d6:8e26:c896
+   Link-local IPv6 Address . . . . . : fe80::ade9:15e0:97f2:b1aa%20
+   IPv4 Address. . . . . . . . . . . : 192.168.1.8
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::1%20
+                                       192.168.1.1
+
